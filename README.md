@@ -16,4 +16,4 @@ Clone the repository and install the dependencies:
 ```bash
 git clone https://github.com/yourusername/brian2_snn_simulation.git
 cd brian2_snn_simulation
-
+pip install -r requirements.txt 
