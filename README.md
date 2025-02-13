@@ -20,16 +20,21 @@ This is just a starting project, but I aim to work on more advanced AI-based neu
 To run the simulation on your system, follow these steps:
 
 1️⃣ Clone the repository
-'''bash
+```
 git clone https://github.com/anshumandas04/brian2_snn_simulation.git
-cd brian2_snn_simulation'''
+cd brian2_snn_simulation
+```
 2️⃣ Install dependencies
 Make sure Python is installed, then run:
+```
 pip install -r requirements.txt
+```
 
 
 3️⃣ Run the simulation
+```
 python main.py
+```
 This will generate membrane potential graphs and a spike raster plot.
 
 📊 How the Simulation Works
@@ -56,12 +61,16 @@ After running the code, you should see two plots:
 Dependencies:
 The project requires the following Python libraries:
 
+```
 brian2
 numpy
 matplotlib
+```
 
 you can install them with:
+```
 pip install -r requirements.txt
+```
 
 
 🔬 Research Papers & References
