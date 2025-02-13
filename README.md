@@ -23,7 +23,7 @@ To run the simulation on your system, follow these steps:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/brian2_snn_simulation.git
+git clone https://github.com/anshumandas04/brian2_snn_simulation.git
 cd brian2_snn_simulation
 2️⃣ Install dependencies
 Make sure Python is installed, then run:
