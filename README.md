@@ -56,7 +56,9 @@ After running the code, you should see two plots:
 1️⃣ Membrane Potential Graph – shows how voltage changes over time.
 2️⃣ Spike Raster Plot – shows when and which neurons fired.
 
+example:
 
+![Membrane Potential](brian2simulationmembrane.png)
 
 Dependencies:
 The project requires the following Python libraries:
